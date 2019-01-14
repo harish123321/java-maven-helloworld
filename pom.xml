@@ -174,4 +174,20 @@
 
     </plugins>
   </build>
+   <profiles>
+        <profile>
+            <id>sonar</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+               
+	
+ <sonar.host.url> http://10.133.10.229:9000 </sonar.host.url>
+	
+                
+
+            </properties>
+        </profile>
+     </profiles>
 </project>
