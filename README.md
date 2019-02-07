@@ -1,1 +1,1 @@
-# Sample java-maven-junit-helloworld again
+# Sample java-maven-junit-helloworld
